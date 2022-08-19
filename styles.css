@@ -1,10 +1,16 @@
 body{
 
-    background-color: cornsilk;
+    background-color: black;
 }
 
 h1{
 
-    font-family: fantasy;
-    color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color:aliceblue;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: x-large;
+    color: aliceblue;
 }
